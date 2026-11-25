@@ -1,0 +1,8 @@
+{
+  "appId": "com.albertochaves.astericsaac",
+  "appName": "AsTeRICS AAC",
+  "webDir": "dist-android",
+  "server": {
+    "androidScheme": "https"
+  }
+}
